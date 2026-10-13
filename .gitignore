@@ -1,0 +1,5 @@
+# local statements & reports (may contain personal trade data)
+*.csv
+report.md
+.env
+__pycache__/
